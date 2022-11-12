@@ -65,7 +65,7 @@
       8. Classification Matrix 1 and 2
       9. OOB Score
       
-Machine Learning Algorithm
+### Machine Learning Algorithm
       1. Linear Regression
       2. Train Test Splite
       2. Logistic Regression
@@ -84,7 +84,7 @@ Machine Learning Algorithm
       15. Adaboost
 
 
-ML algorithm Hypertunnig 
+### ML algorithm Hypertunnig 
       1. Logistic Regression Hyperparameter tunning
       2. Decision Tree Regression 
       3. Random Forest 
